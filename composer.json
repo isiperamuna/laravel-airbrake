@@ -1,5 +1,5 @@
 {
-    "name": "kouz/laravel-airbrake",
+    "name": "isiperamuna/laravel-airbrake",
     "description": "Laravel service provider for Airbrake https://github.com/airbrake/phpbrake",
     "keywords": ["airbrake", "laravel"],
     "require": {
