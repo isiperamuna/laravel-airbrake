@@ -2,6 +2,12 @@
     "name": "kouz/laravel-airbrake",
     "description": "Laravel service provider for Airbrake https://github.com/airbrake/phpbrake",
     "keywords": ["airbrake", "laravel"],
+    "repositories":[
+        {
+          "type": "vcs",
+          "url": "https://github.com/isiperamuna/phpbrake"
+        }
+    ],
     "require": {
         "php": ">=5.4",
         "airbrake/phpbrake": "dev-monolog3support",
